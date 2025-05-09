@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ChatAdapter extends RecyclerView.Adapter<ChatAdapter.MessageViewHolder> {
-
+// testing purposes
 // List to store all chat messages
     private List<ChatMessage> messages = new ArrayList<>();
 
